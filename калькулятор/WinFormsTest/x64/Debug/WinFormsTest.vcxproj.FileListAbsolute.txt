@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\WinFormsTest\WinFormsTest\x64\Debug\WinFormsTest.vcxproj.AssemblyReference.cache
+C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\WinFormsTest\WinFormsTest\x64\Debug\WinFormsTest.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\WinFormsTest\WinFormsTest\x64\Debug\WinFormsTest.MyForm.resources
+C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\WinFormsTest\WinFormsTest\x64\Debug\WinFormsTest.vcxproj.GenerateResource.cache
+C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\калькулятор\WinFormsTest\x64\Debug\WinFormsTest.vcxproj.AssemblyReference.cache
+C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\калькулятор\WinFormsTest\x64\Debug\WinFormsTest.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\калькулятор\WinFormsTest\x64\Debug\WinFormsTest.MyForm.resources
+C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\калькулятор\WinFormsTest\x64\Debug\WinFormsTest.vcxproj.GenerateResource.cache

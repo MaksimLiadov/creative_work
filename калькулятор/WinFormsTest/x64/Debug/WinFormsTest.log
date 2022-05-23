@@ -1,0 +1,24 @@
+﻿  MyForm.cpp
+C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\калькулятор\WinFormsTest\MyForm.h(344,38): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\калькулятор\WinFormsTest\MyForm.h(348,38): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\калькулятор\WinFormsTest\MyForm.h(352,38): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\калькулятор\WinFormsTest\MyForm.h(353,37): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\калькулятор\WinFormsTest\MyForm.h(358,22): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\калькулятор\WinFormsTest\MyForm.h(360,22): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\калькулятор\WinFormsTest\MyForm.h(362,22): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\калькулятор\WinFormsTest\MyForm.h(364,22): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\калькулятор\WinFormsTest\MyForm.h(366,22): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\калькулятор\WinFormsTest\MyForm.h(369,22): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\калькулятор\WinFormsTest\MyForm.h(371,22): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\калькулятор\WinFormsTest\MyForm.h(373,22): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\калькулятор\WinFormsTest\MyForm.h(375,22): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\калькулятор\WinFormsTest\MyForm.h(378,22): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\калькулятор\WinFormsTest\MyForm.h(382,22): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\калькулятор\WinFormsTest\MyForm.cpp(7,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\калькулятор\WinFormsTest\MyForm.h(296): warning C4715: WinFormsTest::MyForm::check_input_textbox_1: значение возвращается не при всех путях выполнения
+C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\калькулятор\WinFormsTest\MyForm.h(305): warning C4715: WinFormsTest::MyForm::check_input_textbox_2: значение возвращается не при всех путях выполнения
+C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\калькулятор\WinFormsTest\MyForm.h(314): warning C4715: WinFormsTest::MyForm::check_input_textbox_3: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  WinFormsTest.vcxproj -> C:\Users\user\Desktop\информатика\творческая работа 1 курс\калькулятор 2\калькулятор\x64\Debug\WinFormsTest.exe
